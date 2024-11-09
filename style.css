@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    
+    
+}
+
+#boatData {
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+    font-size: 17px;
+    font-family: monospace;
+    color: white;
+    pointer-events: none;
+}
